@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f0e9019e87c26fe3cc7ed2b2510e28ee7f12cafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f8712e9e569d9f652b28f7d8028f8c4f02116a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ddb08510811ee8be3a390b4090bb8b2c8bdf60e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_631c6db1582c43ba94f4c7de4f0fcb780fdc9c3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2b6a57137e231fd3775ce95cd46d61c5fcfbff2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_e1284d34cb590dbee63b6faa7a6a8d019d56db72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_c7390fe4ba7b3a40010d77160f48f6b98bc28321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_3610747e88aad880147917d69be16ae9217ce2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7ec07fea59141980ff9755771f5bc8c36e531a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d0c2a78e1a45d165c842fc45af532a9e0546c3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_13a352cea6e39570fa52839fb53cef62b7e60597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Administrator\Desktop\05 Activity&amp;Intent\xmlDesign1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_e61cc8045f07f431a29d7c4c7735acf9f67814b5.jar" />
+    </item>
+
+</items>

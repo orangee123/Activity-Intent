@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Test</string>
+    <string name="cancel">取消</string>
+    <string name="hello">您选择的答案是：</string>
+    <string name="other">otherActivity</string>
+    <string name="question">My home is about _____ away from school.</string>
+    <string name="sure">确定</string>
+</resources>
